@@ -1,0 +1,16 @@
+[
+  {
+    "match_id": "m1",
+    "home_team_id": "t1",
+    "away_team_id": "t2",
+    "match_date_utc": "2026-12-01T15:00:00Z",
+    "status": "scheduled"
+  },
+  {
+    "match_id": "m2",
+    "home_team_id": "t2",
+    "away_team_id": "t3",
+    "match_date_utc": "2026-12-05T17:30:00Z",
+    "status": "scheduled"
+  }
+]

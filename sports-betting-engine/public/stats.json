@@ -1,0 +1,5 @@
+[
+  { "team_id": "t1", "season_tracked": "23/24", "attack_strength": 1.45, "defense_strength": 0.95, "matches_played": 38 },
+  { "team_id": "t2", "season_tracked": "23/24", "attack_strength": 1.60, "defense_strength": 0.85, "matches_played": 38 },
+  { "team_id": "t3", "season_tracked": "23/24", "attack_strength": 1.50, "defense_strength": 0.90, "matches_played": 38 }
+]
